@@ -22,6 +22,8 @@ v20.10.0
 
 9.8.1
 ``` 
+> [!NOTE]
+> (estas versiones pueden variar ya que se actualizan constantemente, lo importante es ver el numero de version)
 
 - Una vez instalado node y npm desde la terminal vamos a ejecutar:
 
@@ -36,8 +38,8 @@ Se recomienda instalar la versión LTS (Long Term Support).
 
 Una vez instalado repetir los pasos de verificación.
 ___
-
-- Si ninguno los comandos anteriores tuvo exito y vemos un mensaje con la leyenda:
+> [!IMPORTANT]
+> Si ninguno los comandos anteriores tuvo exito y vemos un mensaje con la leyenda:
 
 ```
  'C:\Program Files (x86)\XXXXX\XXXX\playwright.ps1' install --with-deps chromium
